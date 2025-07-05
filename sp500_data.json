@@ -1,0 +1,382 @@
+[
+  {
+    "Date": "20250519",
+    "Symbols": ["COIN"]
+  },
+  {
+    "Date": "20250324",
+    "Symbols": ["DASH", "TKO", "WSM", "EXE"]
+  },
+  {
+    "Date": "20241223",
+    "Symbols": ["APO", "WDAY", "LII"]
+  },
+  {
+    "Date": "20241126",
+    "Symbols": ["TPL"]
+  },
+  {
+    "Date": "20240930",
+    "Symbols": ["AMTM"]
+  },
+  {
+    "Date": "20240923",
+    "Symbols": ["PLTR", "DELL", "ERIE"]
+  },
+  {
+    "Date": "20240624",
+    "Symbols": ["KKR", "CRWD", "GDDY"]
+  },
+  {
+    "Date": "20240508",
+    "Symbols": ["VST"]
+  },
+  {
+    "Date": "20240402",
+    "Symbols": ["GEV"]
+  },
+  {
+    "Date": "20240401",
+    "Symbols": ["SOLV"]
+  },
+  {
+    "Date": "20240318",
+    "Symbols": ["SMCI", "DECK"]
+  },
+  {
+    "Date": "20231218",
+    "Symbols": ["UBER", "JBL", "BLDR"]
+  },
+  {
+    "Date": "20231018",
+    "Symbols": ["HUBB", "LULU"]
+  },
+  {
+    "Date": "20231002",
+    "Symbols": ["VLTO"]
+  },
+  {
+    "Date": "20230918",
+    "Symbols": ["BX", "ABNB"]
+  },
+  {
+    "Date": "20230825",
+    "Symbols": ["KVUE"]
+  },
+  {
+    "Date": "20230620",
+    "Symbols": ["PANW"]
+  },
+  {
+    "Date": "20230504",
+    "Symbols": ["AXON"]
+  },
+  {
+    "Date": "20230320",
+    "Symbols": ["FICO"]
+  },
+  {
+    "Date": "20230315",
+    "Symbols": ["BG", "PODD"]
+  },
+  {
+    "Date": "20230104",
+    "Symbols": ["GEHC"]
+  },
+  {
+    "Date": "20221222",
+    "Symbols": ["STLD"]
+  },
+  {
+    "Date": "20221219",
+    "Symbols": ["FSLR"]
+  },
+  {
+    "Date": "20221215",
+    "Symbols": ["MBC"]
+  },
+  {
+    "Date": "20221101",
+    "Symbols": ["ACGL"]
+  },
+  {
+    "Date": "20221012",
+    "Symbols": ["TRGP"]
+  },
+  {
+    "Date": "20221003",
+    "Symbols": ["PCG", "EQT"]
+  },
+  {
+    "Date": "20220919",
+    "Symbols": ["CSGP", "INVH"]
+  },
+  {
+    "Date": "20220621",
+    "Symbols": ["KDP", "ON"]
+  },
+  {
+    "Date": "20220608",
+    "Symbols": ["VICI"]
+  },
+  {
+    "Date": "20220411",
+    "Symbols": ["WBD"]
+  },
+  {
+    "Date": "20220404",
+    "Symbols": ["CPT"]
+  },
+  {
+    "Date": "20220302",
+    "Symbols": ["MOH"]
+  },
+  {
+    "Date": "20220215",
+    "Symbols": ["NDSN"]
+  },
+  {
+    "Date": "20220202",
+    "Symbols": ["CEG"]
+  },
+  {
+    "Date": "20211220",
+    "Symbols": ["SBNY", "SEDG", "FDS"]
+  },
+  {
+    "Date": "20211214",
+    "Symbols": ["EPAM"]
+  },
+  {
+    "Date": "20210920",
+    "Symbols": ["MTCH", "CDAY", "BRO"]
+  },
+  {
+    "Date": "20210830",
+    "Symbols": ["TECH"]
+  },
+  {
+    "Date": "20210721",
+    "Symbols": ["MRNA"]
+  },
+  {
+    "Date": "20210603",
+    "Symbols": ["OGN"]
+  },
+  {
+    "Date": "20210514",
+    "Symbols": ["CRL"]
+  },
+  {
+    "Date": "20210420",
+    "Symbols": ["PTC"]
+  },
+  {
+    "Date": "20210322",
+    "Symbols": ["NXPI", "PENN", "GNRC", "CZR"]
+  },
+  {
+    "Date": "20210212",
+    "Symbols": ["MPWR"]
+  },
+  {
+    "Date": "20210121",
+    "Symbols": ["TRMB"]
+  },
+  {
+    "Date": "20210107",
+    "Symbols": ["ENPH"]
+  },
+  {
+    "Date": "20201221",
+    "Symbols": ["TSLA"]
+  },
+  {
+    "Date": "20201009",
+    "Symbols": ["VNT"]
+  },
+  {
+    "Date": "20201007",
+    "Symbols": ["POOL"]
+  },
+  {
+    "Date": "20200921",
+    "Symbols": ["ETSY", "TER", "CTLT"]
+  },
+  {
+    "Date": "20200622",
+    "Symbols": ["BIO", "TDY", "TYL"]
+  },
+  {
+    "Date": "20200522",
+    "Symbols": ["WST"]
+  },
+  {
+    "Date": "20200512",
+    "Symbols": ["DPZ", "DXCM"]
+  },
+  {
+    "Date": "20200403",
+    "Symbols": ["OTIS", "CARR"]
+  },
+  {
+    "Date": "20200401",
+    "Symbols": ["HWM"]
+  },
+  {
+    "Date": "20200302",
+    "Symbols": ["IR"]
+  },
+  {
+    "Date": "20200128",
+    "Symbols": ["PAYC"]
+  },
+  {
+    "Date": "20191223",
+    "Symbols": ["LYV", "ZBRA", "STE"]
+  },
+  {
+    "Date": "20191209",
+    "Symbols": ["ODFL"]
+  },
+  {
+    "Date": "20191205",
+    "Symbols": ["WRB"]
+  },
+  {
+    "Date": "20191121",
+    "Symbols": ["NOW"]
+  },
+  {
+    "Date": "20191003",
+    "Symbols": ["LVS"]
+  },
+  {
+    "Date": "20190926",
+    "Symbols": ["NVR"]
+  },
+  {
+    "Date": "20190923",
+    "Symbols": ["CDW"]
+  },
+  {
+    "Date": "20190809",
+    "Symbols": ["LDOS", "IEX"]
+  },
+  {
+    "Date": "20190715",
+    "Symbols": ["TMUS"]
+  },
+  {
+    "Date": "20190701",
+    "Symbols": ["MKTX"]
+  },
+  {
+    "Date": "20190611",
+    "Symbols": ["AMCR"]
+  },
+  {
+    "Date": "20190607",
+    "Symbols": ["BMS"]
+  },
+  {
+    "Date": "20190603",
+    "Symbols": ["DD", "CTVA"]
+  },
+  {
+    "Date": "20190402",
+    "Symbols": ["DOW"]
+  },
+  {
+    "Date": "20190319",
+    "Symbols": ["FOXA", "FOX"]
+  },
+  {
+    "Date": "20190227",
+    "Symbols": ["WAB"]
+  },
+  {
+    "Date": "20190215",
+    "Symbols": ["ATO"]
+  },
+  {
+    "Date": "20190118",
+    "Symbols": ["TFX"]
+  },
+  {
+    "Date": "20190102",
+    "Symbols": ["FRC"]
+  },
+  {
+    "Date": "20181224",
+    "Symbols": ["CE"]
+  },
+  {
+    "Date": "20181203",
+    "Symbols": ["LW", "MXIM", "FANG"]
+  },
+  {
+    "Date": "20181113",
+    "Symbols": ["JKHY"]
+  },
+  {
+    "Date": "20181106",
+    "Symbols": ["KEYS"]
+  },
+  {
+    "Date": "20181011",
+    "Symbols": ["FTNT"]
+  },
+  {
+    "Date": "20181001",
+    "Symbols": ["ROL"]
+  },
+  {
+    "Date": "20180914",
+    "Symbols": ["WCG"]
+  },
+  {
+    "Date": "20180828",
+    "Symbols": ["ANET"]
+  },
+  {
+    "Date": "20180702",
+    "Symbols": ["CPRT"]
+  },
+  {
+    "Date": "20180620",
+    "Symbols": ["FLT"]
+  },
+  {
+    "Date": "20180618",
+    "Symbols": ["BR", "HFC"]
+  },
+  {
+    "Date": "20180607",
+    "Symbols": ["TWTR"]
+  },
+  {
+    "Date": "20180605",
+    "Symbols": ["EVRG"]
+  },
+  {
+    "Date": "20180531",
+    "Symbols": ["ABMD"]
+  },
+  {
+    "Date": "20180404",
+    "Symbols": ["MSCI"]
+  },
+  {
+    "Date": "20180319",
+    "Symbols": ["TTWO", "SIVB", "NKTR"]
+  },
+  {
+    "Date": "20180307",
+    "Symbols": ["IPGP"]
+  },
+  {
+    "Date": "20180103",
+    "Symbols": ["HII"]
+  }
+]
